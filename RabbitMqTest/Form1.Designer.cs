@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication1
+﻿namespace RabbitMqTest
 {
     partial class Form1
     {
@@ -138,7 +138,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("SimSun", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label1.Font = new System.Drawing.Font("宋体", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label1.Location = new System.Drawing.Point(234, 22);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(129, 20);
@@ -1048,7 +1048,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(959, 803);
+            this.AutoScroll = true;
+            this.ClientSize = new System.Drawing.Size(959, 741);
             this.Controls.Add(this.panel5);
             this.Controls.Add(this.label31);
             this.Controls.Add(this.panel4);
@@ -1058,6 +1059,7 @@
             this.Controls.Add(this.txtSysMessage);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
