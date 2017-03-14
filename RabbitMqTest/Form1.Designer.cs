@@ -276,9 +276,10 @@
             // label6
             // 
             this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label6.Location = new System.Drawing.Point(10, 9);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(53, 12);
+            this.label6.Size = new System.Drawing.Size(57, 12);
             this.label6.TabIndex = 21;
             this.label6.Text = "基本配置";
             // 
@@ -503,9 +504,10 @@
             // label7
             // 
             this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label7.Location = new System.Drawing.Point(12, 9);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(53, 12);
+            this.label7.Size = new System.Drawing.Size(57, 12);
             this.label7.TabIndex = 21;
             this.label7.Text = "队列操作";
             // 
@@ -729,9 +731,10 @@
             // label8
             // 
             this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label8.Location = new System.Drawing.Point(10, 9);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(65, 12);
+            this.label8.Size = new System.Drawing.Size(70, 12);
             this.label8.TabIndex = 21;
             this.label8.Text = "交换机操作";
             // 
@@ -916,6 +919,8 @@
             // label27
             // 
             this.label27.AutoSize = true;
+            this.label27.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label27.ForeColor = System.Drawing.Color.DarkRed;
             this.label27.Location = new System.Drawing.Point(13, 301);
             this.label27.Name = "label27";
             this.label27.Size = new System.Drawing.Size(53, 12);
@@ -967,6 +972,7 @@
             // label23
             // 
             this.label23.AutoSize = true;
+            this.label23.ForeColor = System.Drawing.Color.DarkRed;
             this.label23.Location = new System.Drawing.Point(13, 152);
             this.label23.Name = "label23";
             this.label23.Size = new System.Drawing.Size(53, 12);
@@ -976,18 +982,20 @@
             // label9
             // 
             this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label9.Location = new System.Drawing.Point(13, 9);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(53, 12);
+            this.label9.Size = new System.Drawing.Size(57, 12);
             this.label9.TabIndex = 21;
             this.label9.Text = "消息操作";
             // 
             // label31
             // 
             this.label31.AutoSize = true;
+            this.label31.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label31.Location = new System.Drawing.Point(615, 76);
             this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(53, 12);
+            this.label31.Size = new System.Drawing.Size(57, 12);
             this.label31.TabIndex = 45;
             this.label31.Text = "输出窗口";
             // 
@@ -1038,9 +1046,10 @@
             // label37
             // 
             this.label37.AutoSize = true;
+            this.label37.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label37.Location = new System.Drawing.Point(12, 9);
             this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(53, 12);
+            this.label37.Size = new System.Drawing.Size(57, 12);
             this.label37.TabIndex = 21;
             this.label37.Text = "绑定关系";
             // 
